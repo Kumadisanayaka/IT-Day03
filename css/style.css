@@ -41,7 +41,7 @@
             margin: 10px;
  }
 
- .p-bg-gray {
+ /*.p-bg-gray {
             background-color: lightgray;
             color: rgb(255, 255, 255);
             text-align: center;
@@ -57,4 +57,20 @@
             border: 1px solid #ccc;
             padding: 10px;
             margin: 10px;
+ }*/
+
+ #pg-bg {
+            background-color:aquamarine;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ *{
+            box-sizing: border-box;
+            background-color: black;
+            padding: 0;
+            margin: 0;
  }
