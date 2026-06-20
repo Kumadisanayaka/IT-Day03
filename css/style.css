@@ -1,0 +1,24 @@
+h1 {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            border: 0cap;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ p {
+            background-color: lightgray;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ body {
+            font-family: Arial, sans-serif;
+            background-color: #ff5050;
+            margin: 0;
+            padding: 0;
+ }
