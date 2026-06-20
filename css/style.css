@@ -1,11 +1,11 @@
-h1 {
+/*h1 {
             background-color: blue;
             color: white;
             text-align: center;
             border: 0cap;
             padding: 10px;
             margin: 10px;
- }
+ }*/
 
  p {
             background-color: lightgray;
@@ -21,4 +21,40 @@ h1 {
             background-color: #ff5050;
             margin: 0;
             padding: 0;
+ }
+
+ .h1-blue {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            border: 0cap;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ .h1-red {
+            background-color: red;
+            color: white;
+            text-align: center;
+            border: 0cap;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ .p-bg-gray {
+            background-color: lightgray;
+            color: rgb(255, 255, 255);
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+ }
+
+ .p-bg-blue {
+            background-color: blue;
+            color: white;
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
  }
